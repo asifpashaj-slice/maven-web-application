@@ -93,7 +93,8 @@
 	</dependencies>
 	
 	<distributionManagement>
-	
+
+	    <repository>	
 	    <id>nexus</id>
 	      <name>slice-NESFB-dev</name>
 	      <url>http://172.31.27.129:9980/asiftechie/repository/slicebank-releases/</url>
